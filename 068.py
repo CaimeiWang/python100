@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #encoding:utf-8
 '''
 有n个整数，使其前面各数顺序向后移m个位置，最后m个数变成最前面的m个数
@@ -43,7 +42,7 @@ if __name__ == '__main__':
 
     move(number, n, m)
 
-=======
+
 #encoding:utf-8
 '''
 有n个整数，使其前面各数顺序向后移m个位置，最后m个数变成最前面的m个数
@@ -87,6 +86,4 @@ if __name__ == '__main__':
     print('原始列表:', number)
 
     move(number, n, m)
-
->>>>>>> a4f8e8d61598546e81645b5487af6f5cc64097ae
     print('移动之后:', number)
