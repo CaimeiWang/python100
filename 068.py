@@ -86,5 +86,9 @@ if __name__ == '__main__':
     print('原始列表:', number)
 
     move(number, n, m)
+<<<<<<< HEAD
 
     print('移动之后:', number)
+=======
+    print('移动之后:', number)
+>>>>>>> ffe951b009c6e3a9b2494356e7e150dd6648b741
