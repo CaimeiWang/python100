@@ -1,8 +1,31 @@
 '''
 有n个人围成一圈，顺序排号。从第一个人开始报数（从1到3报数），凡报到3的人退出圈子，问最后留下的是原来第几号的那位。
 '''
-#method1:
-
+# #method1:
+#
+# def delete(a,id):
+#     #id = 0
+#     count = 0
+#     for i in a:
+#         if i!=0:
+#             id+=1
+#             count+=1
+#         if id==3:
+#             a[i-1]=0
+#             id=0
+#     #print(a,count,id)
+#     if count>3:
+#         delete(a,id)
+#     return a
+# if __name__=='__main__':
+#     n=int(input('please input the number of the people:'))
+#     a = []
+#     for i in range(n):
+#         a.append(i + 1)
+#     a=delete(a,0)
+#     for i in a:
+#         if i!=0:
+#             print(a.index(i))
 
 
 
