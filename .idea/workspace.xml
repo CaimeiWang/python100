@@ -22,45 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="072.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/072.py">
+      <file leaf-file-name="076.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/076.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding>
-                <marker date="1558923689450" expanded="true" signature="379:394" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="073.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/073.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <marker date="1558923689433" expanded="true" signature="787:802" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="074.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/074.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="075.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/075.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/030.py" />
         <option value="$PROJECT_DIR$/031.py" />
         <option value="$PROJECT_DIR$/032.py" />
         <option value="$PROJECT_DIR$/033.py" />
@@ -136,6 +101,7 @@
         <option value="$PROJECT_DIR$/073.py" />
         <option value="$PROJECT_DIR$/074.py" />
         <option value="$PROJECT_DIR$/075.py" />
+        <option value="$PROJECT_DIR$/076.py" />
       </list>
     </option>
   </component>
@@ -214,25 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.075">
-    <configuration default="false" name="071" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python100" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/071.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.076">
     <configuration default="false" name="072" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,6 +253,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="076" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python100" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/076.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -370,19 +336,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.071" />
-      <item index="1" class="java.lang.String" itemvalue="Python.072" />
-      <item index="2" class="java.lang.String" itemvalue="Python.073" />
-      <item index="3" class="java.lang.String" itemvalue="Python.074" />
-      <item index="4" class="java.lang.String" itemvalue="Python.075" />
+      <item index="0" class="java.lang.String" itemvalue="Python.072" />
+      <item index="1" class="java.lang.String" itemvalue="Python.073" />
+      <item index="2" class="java.lang.String" itemvalue="Python.074" />
+      <item index="3" class="java.lang.String" itemvalue="Python.075" />
+      <item index="4" class="java.lang.String" itemvalue="Python.076" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.075" />
-        <item index="1" class="java.lang.String" itemvalue="Python.074" />
-        <item index="2" class="java.lang.String" itemvalue="Python.073" />
-        <item index="3" class="java.lang.String" itemvalue="Python.072" />
-        <item index="4" class="java.lang.String" itemvalue="Python.071" />
+        <item index="0" class="java.lang.String" itemvalue="Python.076" />
+        <item index="1" class="java.lang.String" itemvalue="Python.075" />
+        <item index="2" class="java.lang.String" itemvalue="Python.074" />
+        <item index="3" class="java.lang.String" itemvalue="Python.073" />
+        <item index="4" class="java.lang.String" itemvalue="Python.072" />
       </list>
     </recent_temporary>
   </component>
@@ -468,13 +434,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/035.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/033.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -822,8 +781,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/075.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="152">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/076.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
