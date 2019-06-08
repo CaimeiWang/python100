@@ -11,7 +11,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="087.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/087.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/042.py" />
         <option value="$PROJECT_DIR$/043.py" />
         <option value="$PROJECT_DIR$/041.py" />
         <option value="$PROJECT_DIR$/044.py" />
@@ -81,6 +91,7 @@
         <option value="$PROJECT_DIR$/084.py" />
         <option value="$PROJECT_DIR$/085.py" />
         <option value="$PROJECT_DIR$/086.py" />
+        <option value="$PROJECT_DIR$/087.py" />
       </list>
     </option>
   </component>
@@ -159,25 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.086">
-    <configuration default="false" name="082" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python100" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/082.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.087">
     <configuration default="false" name="083" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,6 +243,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="087" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python100" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/087.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,19 +326,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.082" />
-      <item index="1" class="java.lang.String" itemvalue="Python.083" />
-      <item index="2" class="java.lang.String" itemvalue="Python.084" />
-      <item index="3" class="java.lang.String" itemvalue="Python.085" />
-      <item index="4" class="java.lang.String" itemvalue="Python.086" />
+      <item index="0" class="java.lang.String" itemvalue="Python.083" />
+      <item index="1" class="java.lang.String" itemvalue="Python.084" />
+      <item index="2" class="java.lang.String" itemvalue="Python.085" />
+      <item index="3" class="java.lang.String" itemvalue="Python.086" />
+      <item index="4" class="java.lang.String" itemvalue="Python.087" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.086" />
-        <item index="1" class="java.lang.String" itemvalue="Python.085" />
-        <item index="2" class="java.lang.String" itemvalue="Python.084" />
-        <item index="3" class="java.lang.String" itemvalue="Python.083" />
-        <item index="4" class="java.lang.String" itemvalue="Python.082" />
+        <item index="0" class="java.lang.String" itemvalue="Python.087" />
+        <item index="1" class="java.lang.String" itemvalue="Python.086" />
+        <item index="2" class="java.lang.String" itemvalue="Python.085" />
+        <item index="3" class="java.lang.String" itemvalue="Python.084" />
+        <item index="4" class="java.lang.String" itemvalue="Python.083" />
       </list>
     </recent_temporary>
   </component>
@@ -355,6 +366,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1598" height="858" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29323798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -412,13 +424,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/045.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/047.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -763,6 +768,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/087.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>
