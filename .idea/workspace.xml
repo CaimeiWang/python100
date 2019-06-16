@@ -12,11 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="098.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/098.py">
+      <file leaf-file-name="099.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/099.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="551">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -41,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/053.py" />
         <option value="$PROJECT_DIR$/054.py" />
         <option value="$PROJECT_DIR$/055.py" />
         <option value="$PROJECT_DIR$/002.py" />
@@ -92,6 +91,7 @@
         <option value="$PROJECT_DIR$/096.py" />
         <option value="$PROJECT_DIR$/097.py" />
         <option value="$PROJECT_DIR$/098.py" />
+        <option value="$PROJECT_DIR$/099.py" />
       </list>
     </option>
   </component>
@@ -170,25 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.098">
-    <configuration default="false" name="094" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python100" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/094.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.099">
     <configuration default="false" name="095" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,6 +243,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="099" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python100" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/099.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,19 +326,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.094" />
-      <item index="1" class="java.lang.String" itemvalue="Python.095" />
-      <item index="2" class="java.lang.String" itemvalue="Python.096" />
-      <item index="3" class="java.lang.String" itemvalue="Python.097" />
-      <item index="4" class="java.lang.String" itemvalue="Python.098" />
+      <item index="0" class="java.lang.String" itemvalue="Python.095" />
+      <item index="1" class="java.lang.String" itemvalue="Python.096" />
+      <item index="2" class="java.lang.String" itemvalue="Python.097" />
+      <item index="3" class="java.lang.String" itemvalue="Python.098" />
+      <item index="4" class="java.lang.String" itemvalue="Python.099" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.098" />
-        <item index="1" class="java.lang.String" itemvalue="Python.097" />
-        <item index="2" class="java.lang.String" itemvalue="Python.096" />
-        <item index="3" class="java.lang.String" itemvalue="Python.095" />
-        <item index="4" class="java.lang.String" itemvalue="Python.094" />
+        <item index="0" class="java.lang.String" itemvalue="Python.099" />
+        <item index="1" class="java.lang.String" itemvalue="Python.098" />
+        <item index="2" class="java.lang.String" itemvalue="Python.097" />
+        <item index="3" class="java.lang.String" itemvalue="Python.096" />
+        <item index="4" class="java.lang.String" itemvalue="Python.095" />
       </list>
     </recent_temporary>
   </component>
@@ -424,20 +424,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/004.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/005.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="33" column="10" lean-forward="false" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/anaconda/install/envs/py35/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -776,6 +762,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/099.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
           <folding />
         </state>
       </provider>
